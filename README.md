@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @hbjorgo
+- 👀 I’m interested in .Net and embedded development and electronics
